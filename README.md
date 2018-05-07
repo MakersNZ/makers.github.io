@@ -16,7 +16,7 @@ This is the 4th (5th?) incarnation or attempt at building this, so the more the 
 Going back to some basics, cobbling resources together.
 
 * [https://www.google.com/maps/d/viewer?mid=1W-G-aVD14qwgxdxPkUF--Z7mUPA](Google Map) of some collected data
-* [https://goo.gl/forms/eqrSrBwhGPgnaIew2](Google Form) to collect said data. (vetted data will be made public for reuse in other applications)
+* [https://docs.google.com/forms/d/e/1FAIpQLSebRpR0vHe5MgHRq_lGcrIFvng5-MNaRtkCtF7Sf7QfhMx9rg/viewform](Google Form) to collect said data. (vetted data will be made public for reuse in other applications)
   * NOTE: For People, PLEASE only volunteer your own data.
 * For general feedback - updates, changes & suggestions - please send a mail to map@meshed.nz
   * System changes/request via [https://github.com/MakersNZ/makers.github.io/issues](GH Issues)
